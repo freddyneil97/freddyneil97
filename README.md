@@ -3,7 +3,7 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - <b>Active Directory Home Lab</b>
-  - [Windows Server 2022 and Windows 11 Clients & Automation](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Windows Server 2022 and Windows 11 Clients & Automation](https://github.com/freddyneil97/Home-Server-and-Client-setup)
 - <b>Security Audit for a fictional company (NIST CSF, PCIDSS, GDPR, SOC type1, SOC type2)</b>
   - [Security Audit for a fictional company called Botium toys](https://github.com/freddyneil97/Cyber_Security_Portfolio)
 
