@@ -6,12 +6,17 @@
   - [Windows Server 2022 and Windows 11 Clients & Automation](https://github.com/freddyneil97/Home-Server-and-Client-setup)
 - <b>Security Audit for a fictional company (NIST CSF, PCIDSS, GDPR, SOC type1, SOC type2)</b>
   - [Security Audit for a fictional company called Botium toys](https://github.com/freddyneil97/Cyber_Security_Portfolio)
+- <b>Algorithm for file updates in Python</b>
+  - [Algorithm for file updates in Python](https://github.com/freddyneil97/python_automation_cyber)
+
 
 <h2>📺 Certifications and Merits</h2>
 
 - [Bachelor of Computer and Information Sciences](https://www.myequals.net/sharelink/06512503-1842-4955-acca-89da6444abbc/6be10edb-a702-412e-a129-c5bb6ea5b25c)
 - [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/d61e5b37-b325-469e-be7c-5481fbeab2c2)
 - [Certified in Network Security by CISCO](https://scarlet-gabriella-18.tiiny.site/)
+
+
 
 
 <h2> 🤳 Connect with me:</h2>
