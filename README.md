@@ -1,4 +1,4 @@
-<h1>Hi, I'm Frederick Neil! <br/><a href="https://github.com/freddyneil97 ">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Frederick Neil! <br/><a href="https://github.com/freddyneil97 ">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
