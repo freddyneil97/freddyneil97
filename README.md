@@ -15,6 +15,7 @@
 - [Bachelor of Computer and Information Sciences](https://www.myequals.net/sharelink/06512503-1842-4955-acca-89da6444abbc/6be10edb-a702-412e-a129-c5bb6ea5b25c)
 - [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/d61e5b37-b325-469e-be7c-5481fbeab2c2)
 - [Certified in Network Security by CISCO](https://scarlet-gabriella-18.tiiny.site/)
+- [Certified in Security+ by Comptia](https://www.credly.com/earner/earned/badge/f8b6b08b-f59a-4fb5-bf77-55b51bd22b2f)
 
 
 
@@ -31,17 +32,9 @@
 [instagram]: https://www.instagram.com/joshmadakor/-->
 [linkedin]: https://www.linkedin.com/in/frederick-neil-354715139/
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Practical Junior Penetration Tester from the TCM Academy
+- 🌱 I’m currently learning on how to be a hacker
+- 📫 How to reach me on my linkedin link above :)
+- ⚡ Fun fact: Love Football(the real ofcourse) and music(pop usually)
