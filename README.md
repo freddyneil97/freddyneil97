@@ -2,12 +2,10 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-- <b>Active Directory Home Lab</b>
-  - [Windows Server 2022 and Windows 11 Clients & Automation](https://github.com/freddyneil97/Home-Server-and-Client-setup)
-- <b>Security Audit for a fictional company (NIST CSF, PCIDSS, GDPR, SOC type1, SOC type2)</b>
-  - [Security Audit for a fictional company called Botium toys](https://github.com/freddyneil97/Cyber_Security_Portfolio)
-- <b>Algorithm for file updates in Python</b>
-  - [Algorithm for file updates in Python](https://github.com/freddyneil97/python_automation_cyber)
+- <b>[Active Directory Home Lab](https://github.com/freddyneil97/Home-Server-and-Client-setup)</b>
+- <b>[Security Audit for a fictional company called Botium toys](https://github.com/freddyneil97/Cyber_Security_Portfolio)</b>
+- <b>[Algorithm for file updates in Python](https://github.com/freddyneil97/python_automation_cyber)</b>
+- <b>[CTFs that I have completed](https://github.com/freddyneil97/CTFs)</b>
 
 
 <h2>📺 Certifications and Merits</h2>
@@ -18,6 +16,12 @@
 - [Certified in Security+ by Comptia](https://www.credly.com/earner/earned/badge/f8b6b08b-f59a-4fb5-bf77-55b51bd22b2f)
 
 
+<h2> 🔥 Something more about me:</h2>
+
+- 🔭 I’m currently working on Practical Junior Penetration Tester from the TCM Academy
+- 🌱 I’m currently learning on how to be a hacker
+- 📫 How to reach me on my linkedin link above :)
+- ⚡ Fun fact: Love Football(there's only one) and music(pop usually)
 
 
 <h2> 🤳 Connect with me:</h2>
@@ -31,10 +35,3 @@
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/-->
 [linkedin]: https://www.linkedin.com/in/frederick-neil-354715139/
-
-
-
-- 🔭 I’m currently working on Practical Junior Penetration Tester from the TCM Academy
-- 🌱 I’m currently learning on how to be a hacker
-- 📫 How to reach me on my linkedin link above :)
-- ⚡ Fun fact: Love Football(the real ofcourse) and music(pop usually)
