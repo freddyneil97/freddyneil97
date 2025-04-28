@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently working on Practical Junior Penetration Tester from the TCM Academy
 - 🌱 I’m currently learning on how to be a hacker
-- 📫 How to reach me on my linkedin link above :)
+- 📫 How to reach me on my linkedin link below :)
 - ⚡ Fun fact: Love Football(there's only one) and music(pop usually)
 
 
