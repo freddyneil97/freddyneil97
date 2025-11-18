@@ -6,6 +6,7 @@
 - <b>[Security Audit for a fictional company called Botium toys](https://github.com/freddyneil97/Cyber_Security_Portfolio)</b>
 - <b>[Algorithm for file updates in Python](https://github.com/freddyneil97/python_automation_cyber)</b>
 - <b>[CTFs that I have completed](https://github.com/freddyneil97/CTFs)</b>
+- <b>[CTFs that I have completed](https://github.com/freddyneil97/AD_Automation/blob/main/README.md)</b> 
 
 
 <h2>📺 Certifications and Merits</h2>
