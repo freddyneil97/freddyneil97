@@ -1,6 +1,6 @@
 <h1>Hi, I'm Frederick Neil! <br/><a href="https://github.com/freddyneil97 ">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
 
-<h2>👨‍💻 CyberSecurity Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>[Active Directory Home Lab](https://github.com/freddyneil97/Home-Server-and-Client-setup)</b>
 - <b>[Security Audit for a fictional company called Botium toys](https://github.com/freddyneil97/Cyber_Security_Portfolio)</b>
